@@ -55,3 +55,20 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Library/ArtifactDB
+Library/ArtifactDB-lock
+Library/InspectorExpandedItems.asset
+Library/SceneVisibilityState.asset
+Library/ShaderCache/EditorEncounteredVariants
+Library/SourceAssetDB
+Library/SourceAssetDB-lock
+Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+Logs/shadercompiler-UnityShaderCompiler0.log
+Logs/shadercompiler-UnityShaderCompiler1.log
+Logs/shadercompiler-UnityShaderCompiler2.log
+Logs/shadercompiler-UnityShaderCompiler3.log
+Logs/shadercompiler-UnityShaderCompiler4.log
+Logs/shadercompiler-UnityShaderCompiler5.log
+Logs/shadercompiler-UnityShaderCompiler6.log
+Logs/shadercompiler-UnityShaderCompiler7.log
